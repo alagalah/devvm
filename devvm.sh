@@ -9,4 +9,4 @@ curl -u alagalah -H "Accept: application/vnd.github.raw" -O "https://api.github.
 
 tar -xvf devvm.tar.gz
 
-sudo -u alagalah vagrant up --provider=virtualbox
+sudo -u alagalah vagrant up 
